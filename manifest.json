@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "LODO",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "LODO",
+  "start_url": "/",
+  "theme_color": "#070709"
+}
